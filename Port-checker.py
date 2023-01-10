@@ -21,6 +21,3 @@ if isOpen(ip,port)=='Open':
 else:
     print("checking for open port ..." )
     clrprint('Port',f'{port}', 'is' ,str(isOpen(ip,port)), 'on', f'{ip}', clr=['d','b','d','r','d','b'])
-
-
-

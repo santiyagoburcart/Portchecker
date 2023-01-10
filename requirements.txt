@@ -1,0 +1,2 @@
+clrprint==2.0.1
+colorama==0.4.6
